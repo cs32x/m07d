@@ -1,4 +1,4 @@
-### m07b/guess3.py
+### m07/guess3.py
 import random
 
 def main():

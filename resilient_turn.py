@@ -1,4 +1,4 @@
-### m07b/resilient_turn.py
+### m07/resilient_turn.py
 import random
 
 def main():
